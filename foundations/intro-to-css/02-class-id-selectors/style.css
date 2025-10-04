@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+/* Could've used a class called "odd" here */
+p {
+    background-color: rgb(207, 101, 101);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+div {
+    font-family: "Times New Roman";
+}
+
+.change-font {
+    font-size: 24px;
+}
+
+#num-2 {
+    color: rgb(45, 45, 167);
+    font-size: 36px;
+}
+
+#num-4 {
+    background-color: rgb(75, 190, 75);
+    font-weight: bold;
+}
