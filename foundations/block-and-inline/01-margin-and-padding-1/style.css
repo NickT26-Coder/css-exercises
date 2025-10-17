@@ -24,5 +24,6 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 30px;
-  margin-left: 335px;
+  margin-left: auto; 
+  /* Margin left auto alligns to the farthest to the right of the element */
 }
